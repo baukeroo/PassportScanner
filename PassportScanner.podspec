@@ -83,7 +83,7 @@ s.frameworks = "Foundation"
 s.requires_arc = true
 
 
-s.dependency "TesseractOCRiOS", :git => 'https://github.com/gali8/Tesseract-OCR-iOS.git'
+s.dependency "TesseractOCRiOS", :git => 'https://github.com/chaoskyme/Tesseract-OCR-iOS.git'
 s.dependency "GPUImage"
 s.dependency "UIImage-Resize"
 
